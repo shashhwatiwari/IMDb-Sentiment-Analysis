@@ -1,0 +1,3 @@
+To run the python notebook, please change the path of the data set as per the file's location on your system, otherwise it will throw an error.
+
+Thank you.
